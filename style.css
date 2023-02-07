@@ -49,6 +49,7 @@ a{
   margin: 0 auto;
   position: relative;
   flex-wrap: wrap;
+  padding-left: 90px;
   
  
 }
@@ -80,6 +81,7 @@ a{
   align-items: center;
   position:static;
   flex-direction: column;
+
 }
 
 .card0{
